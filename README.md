@@ -1,2 +1,34 @@
-# SaferouteAi
-An AI-based navigation system that performs risk classification (low, medium, high) using historical data and enables real-time threat detection with automated emergency alerting.
+# SaferouteAI – SafeRoute System 🚨
+
+## 📌 Description
+SafeRouteAi is an AI-based safety and navigation system designed to enhance personal security.  
+It uses smart route analysis, voice-triggered emergency alerts, and real-time monitoring.
+
+## 🚀 Features
+- Smart route safety analysis  
+- Voice-triggered emergency alerts  
+- OTP-based login system  
+- Distress word detection  
+- Offline alert system  
+- Modules for police, hospital, and pregnancy assistance  
+
+## 🛠️ Technologies Used
+- Python  
+- Machine Learning  
+- AI-based detection  
+
+## 📂 Project Structure
+SaferouteAi/ ├── ps.py ├── README.md
+
+## ▶️ How to Run
+1. Install Python  
+2. Run the file:
+   python ps.py  
+
+## 🎯 Future Improvements
+- Mobile app integration  
+- Real-time GPS tracking  
+- Deep learning enhancements  
+
+## 👩‍💻 Author
+Poovarasi
