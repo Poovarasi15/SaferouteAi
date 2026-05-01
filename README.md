@@ -1,7 +1,7 @@
 # SaferouteAI – SafeRoute System 🚨
 
 ## 📌 Description
-SafeRouteAi is an AI-based safety and navigation system designed to enhance personal security.  
+SafeRouteAi is an AI-based safety and navigation system which works on both online and offline designed to enhance personal security.  
 It uses smart route analysis, voice-triggered emergency alerts, and real-time monitoring.
 
 ## 🚀 Features
